@@ -5,7 +5,7 @@
 
 <table>
 
-<b><i>irctc</i></b>
+<b><i>IRCTC</i></b>
 
 <tr>
 
