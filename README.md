@@ -47,7 +47,7 @@
 
 <th>html page size test</th>
 
-<td>10.24 KB</td><br>
+<td>10.24 KB</td>
 
 </tr>
 
