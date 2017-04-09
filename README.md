@@ -23,15 +23,15 @@
 <td>28 February 2059 05:00:00 utc</td>
 </tr>
 <tr>
-<th>html page size test</th>
+<th>HTML Page Size Test</th>
 <td>10.24 KB</td>
 </tr>
 <tr>
-<th>html compreession test</th>
-<td>gzip compression</td>
+<th>HTML Compreession Test</th>
+<td>GZip Compression</td>
 </tr>
 <tr>
-<th>page rank</th>
+<th>Page Rank</th>
 <td>7</td>
 </tr>
 <tr>
@@ -44,11 +44,11 @@
 </tr>
 <tr>
 <th>google search preview</th>
-<td>Login Home  http://irctc.co.in/robots.txt  skip to navigation skip to content irctcmail.contact us.</td>
+<td>Login Home  http://irctc.co.in/robots.txt  Skip to Navigation Skip to content irctcmail.contact us.</td>
 </tr>
 <tr>
 <th>SEO Friendly URL Test</th>
-<td>Warning! 6 internal urls found that are not seo friendly.</td>
+<td>Warning! 6 Internal URLs found that are not SEO friendly.</td>
 </tr>
 </table>
 </body>
