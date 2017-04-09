@@ -1,7 +1,7 @@
 # IRCTC-Web
 <html>
 
-
+<body>
 
 <table>
 
@@ -98,5 +98,7 @@
 </tr>
 
 </table>
+
+</body>
 
 </html>
