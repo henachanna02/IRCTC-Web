@@ -104,10 +104,12 @@
 <td>IRCTC Next Generation eTicketing System (https://www.irctc.co.in/eticketing/loginHome.jsf) </td>
 </tr>
 <tr>
-<th>SEO Score: 54</th>
+<th>SEO Score</th>
+<td>54</td>
 </tr>
 <tr>
-<th> Grade : C </th>
+<th> Grade </th>
+<td> C </td>
 <a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-bronze-xs.png" alt="seo checker"/></a>
 </tr>
 </table>
