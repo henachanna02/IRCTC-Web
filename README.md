@@ -98,7 +98,7 @@
 <tr>
 <th>WWW Redirection Test</th>
 <td>Currently, this website does direct www.irctc.co.in and irctc.co.in to the same URL. Hence it is not applied here!</td>
-<td>WWW Redirection is not placed to redirect traffic from your non-preferred domain, it is used for makign a webpage available under many URLs. This is also known as Domain Forwarding & Domain Redirection.</td>
+<td>WWW Redirection is not placed to redirect traffic from your non-preferred domain, it is used for making a webpage available under many URLs. This is also known as Domain Forwarding & Domain Redirection.</td>
 </tr>
 <tr>
 <th>Google Search Preview</th>
