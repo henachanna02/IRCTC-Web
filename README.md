@@ -58,6 +58,7 @@
 <tr>
 <th> Broken Links Test</th>
 <td>None of the links appearing on the website seem to be broken. In total, currently, there are 138 distinct anchor links for this website.</td>
+<td>This tool prevents web-crawlers from damaging the website, henceforth, it has to be functional. It preserves the site's ranking and usability.</td>
 </tr>
 <tr>
 <th>Image CSS Test</th>
