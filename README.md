@@ -1,6 +1,6 @@
 # IRCTC-Web
 <html>
-<marquee><b><i>IRCTC</i></b></marquee>
+<marquee><b><i>Indian Railway Catering and Tourism Corporation</i></b></marquee>
 <table>
 <tr>
 <th><b>Page Title</b></th>
