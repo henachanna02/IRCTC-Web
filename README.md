@@ -11,7 +11,7 @@
 </tr>
 <tr>
 <th>Meta Description</th>
-<td>most search engines will truncate meta descriptions to 160 characters<td>
+<td>most search engines will truncate meta descriptions to 160 characters</td>
 </tr>
 <tr>
 <th>Keywords Test</th>
@@ -34,15 +34,15 @@
 <td>7</td>
 </tr>
 <tr>
-<th>image alt test</th>
-<td>require 'alt'attribute</td>
+<th>Image ALT Test</th>
+<td>Require 'alt'attribute</td>
 </tr>
 <tr>
-<th>site maps</th>
+<th>Site maps</th>
 <td>1site map in this website</td>
 </tr>
 <tr>
-<th>google search preview</th>
+<th>Google Search Preview</th>
 <td>Login Home  http://irctc.co.in/robots.txt  Skip to Navigation Skip to content irctcmail.contact us.</td>
 </tr>
 <tr>
