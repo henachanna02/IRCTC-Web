@@ -1,8 +1,7 @@
 # IRCTC-Web
 <html>
-<body>
-<table>
 <marquee><b><i>IRCTC</i></b></marquee>
+<table>
 <tr>
 <th><b>Page Title</b></th>
 </tr>
@@ -51,5 +50,4 @@
 <td>Warning! 6 Internal URLs found that are not SEO friendly.</td>
 </tr>
 </table>
-</body>
 </html>
